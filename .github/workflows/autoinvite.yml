@@ -9,8 +9,8 @@ jobs:
       - name: Invite contributor to the organization
         uses: lekterable/inclusive-organization-action@v1.1.0
         with:
-          organization: CombineCommunity
-          team: Contributors
+          organization: inclusive-organization
+          team: coool-team
           comment: |
             Thank you for your contribution — You Rock 🤘!
 
